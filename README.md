@@ -32,7 +32,7 @@ A modern, sleek alternative to Omegle, focusing solely on video chat connections
 
 (If you don't have access to run a .bat file for some reason then just use the sameish commands within it)
 
-## Future Improvements
+## Future Improvements (I might possibly do)
 
 - Enhanced security measures
 - User authentication
